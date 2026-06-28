@@ -58,6 +58,7 @@
 |----------|--------|------------|--------------|
 | **[EnlyAI](https://enlyai.com)** ⭐ | GPT-5.5, Claude, Gemini, DeepSeek + 100 more | OpenAI | ✅ Yes |
 | OpenRouter | 200+ models | OpenAI | ❌ |
+| [Tokens Forge](https://tokens-forge.com) | GPT, Claude, Gemini + routed models | OpenAI | ✅ Yes |
 | Together AI | Open source models | OpenAI | $5 |
 
 > 💡 **Recommendation**: [EnlyAI](https://enlyai.com) offers one API key for all models with OpenAI-compatible interface. [Get free credits →](https://enlyai.com)
