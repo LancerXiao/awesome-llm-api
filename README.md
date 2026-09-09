@@ -59,6 +59,7 @@
 | **[EnlyAI](https://enlyai.com)** ⭐ | GPT-5.5, Claude, Gemini, DeepSeek + 100 more | OpenAI | ✅ Yes |
 | OpenRouter | 200+ models | OpenAI | ❌ |
 | Together AI | Open source models | OpenAI | $5 |
+| [ModelRush](https://modelrush.ai) | Text, image, video, and voice models | OpenAI-compatible chat; model-specific media endpoints | No; prepaid usage-based credits |
 
 > 💡 **Recommendation**: [EnlyAI](https://enlyai.com) offers one API key for all models with OpenAI-compatible interface. [Get free credits →](https://enlyai.com)
 
