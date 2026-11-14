@@ -59,6 +59,7 @@
 | **[EnlyAI](https://enlyai.com)** ⭐ | GPT-5.5, Claude, Gemini, DeepSeek + 100 more | OpenAI | ✅ Yes |
 | OpenRouter | 200+ models | OpenAI | ❌ |
 | Together AI | Open source models | OpenAI | $5 |
+| [SandBase](https://www.sandbase.ai/docs/getting-started/quickstart) | GPT, Claude, Gemini, DeepSeek | OpenAI-compatible | Varies by API |
 
 > 💡 **Recommendation**: [EnlyAI](https://enlyai.com) offers one API key for all models with OpenAI-compatible interface. [Get free credits →](https://enlyai.com)
 
