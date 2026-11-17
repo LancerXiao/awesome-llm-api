@@ -59,6 +59,7 @@
 | **[EnlyAI](https://enlyai.com)** ⭐ | GPT-5.5, Claude, Gemini, DeepSeek + 100 more | OpenAI | ✅ Yes |
 | OpenRouter | 200+ models | OpenAI | ❌ |
 | Together AI | Open source models | OpenAI | $5 |
+| [Off Grid AI Boost](https://getoffgridai.co/boost/) | Qwen 3.8, DeepSeek V4.1 Flash and more open models | OpenAI | ❌ (usage included in every plan) |
 
 > 💡 **Recommendation**: [EnlyAI](https://enlyai.com) offers one API key for all models with OpenAI-compatible interface. [Get free credits →](https://enlyai.com)
 
