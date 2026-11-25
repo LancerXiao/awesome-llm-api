@@ -58,6 +58,7 @@
 |----------|--------|------------|--------------|
 | **[EnlyAI](https://enlyai.com)** ⭐ | GPT-5.5, Claude, Gemini, DeepSeek + 100 more | OpenAI | ✅ Yes |
 | OpenRouter | 200+ models | OpenAI | ❌ |
+| [Beiluo API (北洛API)](https://beiluoxi.xyz/) | GPT, Claude, Gemini, DeepSeek | OpenAI, Anthropic, Gemini | [Daily check-in](https://beiluoxi.xyz/daily-checkin): $0.01–$0.10 in platform credits |
 | Together AI | Open source models | OpenAI | $5 |
 
 > 💡 **Recommendation**: [EnlyAI](https://enlyai.com) offers one API key for all models with OpenAI-compatible interface. [Get free credits →](https://enlyai.com)
